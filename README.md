@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KohheiAdachi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KohheiAdachi&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KohheiAdachi&langs_count=8&layout=compact&theme=radical&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KohheiAdachi/KohheiAdachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
